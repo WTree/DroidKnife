@@ -8,6 +8,8 @@ import android.net.Uri;
 import android.util.Log;
 import android.widget.Toast;
 
+import knife.tools.com.keifelibrary.R;
+
 /**
  * Created by WTree on 2016/9/28.
  */
