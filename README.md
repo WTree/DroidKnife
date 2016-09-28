@@ -13,7 +13,7 @@ Step 2. Add the dependency
 
 	dependencies {
 	
-	        compile 'com.github.WTree:DroidKnife:v1.0'
+	        compile 'com.github.WTree:DroidKnife:v0.1'
 			
 	}
 
