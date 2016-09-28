@@ -1,3 +1,7 @@
+[![](https://jitpack.io/v/WTree/DroidKnife.svg)](https://jitpack.io/#WTree/DroidKnife)
+
+
+
 Utils.java
 
 	void copy(Context context,String text); 		//¸´ÖÆµ½¼ôÌù°å
